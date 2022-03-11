@@ -19,6 +19,8 @@ User Guide - Under Development - credit to richteel.
 
 For the latest quick start details on materials, assembly and usage - please look at the documents provided in this repo.
 
+https://github.com/Kayto/Armachat-Compact-Documentation
+
 We are looking to build an active community to help contribute to the documentation and coding so please take some time to view the documents and open discussions to express interest in contributing.
 
 For some additional guidance on coding issues please also refer to the discussions here;
